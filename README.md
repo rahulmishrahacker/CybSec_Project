@@ -8,4 +8,4 @@
 
 ## Features: Static and Material design
 
-## [Formspree](https://formspree.io)is used for email form
+## [Formspree](https://formspree.io) is used for email form
